@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #0A0E0A;
+  color: white;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #D9FF3D;
+  color: #0A0E0A;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: #0A0E0A; }
+::-webkit-scrollbar-thumb { background: #1F2421; }
+::-webkit-scrollbar-thumb:hover { background: #D9FF3D; }
