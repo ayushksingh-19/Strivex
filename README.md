@@ -173,6 +173,13 @@ This project currently includes:
 - The backend is intentionally simple and easy to extend.
 - If you want production hosting next, this codebase is a strong base for deploying the frontend and API separately or together behind a Node server.
 
+## License
+
+This repository is `UNLICENSED`.
+
+It is intended for frontend learning, reference, and personal educational use only.
+You are not permitted to copy, redistribute, republish, or claim this project as your own work without explicit written permission.
+
 ---
 
 <p align="center">
