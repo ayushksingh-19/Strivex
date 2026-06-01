@@ -13,7 +13,7 @@ function Nav() {
             <Dumbbell className="w-5 h-5 text-night" strokeWidth={2.5} />
           </div>
           <span className="font-display font-bold text-xl md:text-2xl text-white tracking-tight">
-            FORGE
+            STRIVEX
           </span>
         </a>
 
@@ -97,7 +97,7 @@ function Hero() {
           className="font-display font-bold text-white text-center leading-[0.95] tracking-tight max-w-6xl mx-auto"
           style={{ fontSize: 'clamp(2.5rem, 8vw, 7.5rem)' }}
         >
-          <span className="text-lime">Forge</span> Your Body,<br />
+          <span className="text-lime">Strivex</span> Your Body,<br />
           Elevate Your <span className="text-lime italic font-normal">Spirit</span>
         </motion.h1>
 
@@ -202,7 +202,7 @@ function Features() {
           transition={{ duration: 0.7 }}
           className="mb-16 md:mb-20 max-w-3xl"
         >
-          <p className="text-xs uppercase tracking-[0.3em] text-lime mb-4">— Why FORGE</p>
+          <p className="text-xs uppercase tracking-[0.3em] text-lime mb-4">— Why Strivex</p>
           <h2 className="font-display font-bold text-white leading-[1.05] tracking-tight"
               style={{ fontSize: 'clamp(2.5rem, 6vw, 5rem)' }}>
             Built for athletes,<br />
@@ -499,7 +499,7 @@ function CTA() {
           <div className="absolute top-0 right-0 w-96 h-96 bg-night/10 rounded-full blur-3xl" />
           <h2 className="font-display font-bold text-night leading-[0.95] tracking-tight"
               style={{ fontSize: 'clamp(2.5rem, 7vw, 6rem)' }}>
-            Ready to forge?
+            Ready for Strivex?
           </h2>
           <p className="mt-6 text-night/80 text-lg max-w-xl mx-auto">
             First class is on us. Book a free trial session and meet your coach.
@@ -542,7 +542,7 @@ function Footer() {
             <div className="w-9 h-9 bg-lime rounded-lg flex items-center justify-center">
               <Dumbbell className="w-5 h-5 text-night" strokeWidth={2.5} />
             </div>
-            <span className="font-display font-bold text-2xl text-white">FORGE</span>
+            <span className="font-display font-bold text-2xl text-white">STRIVEX</span>
           </div>
           <p className="text-sm text-mute max-w-sm">
             India's most modern training studio. Built for athletes, priced for everyone.
@@ -563,8 +563,8 @@ function Footer() {
         ))}
       </div>
       <div className="max-w-[1400px] mx-auto mt-12 pt-6 border-t border-line flex flex-col md:flex-row justify-between gap-3 text-xs text-mute">
-        <span>© 2026 FORGE · Mumbai · Bengaluru · Delhi</span>
-        <span>Built by Harsh Goyal</span>
+        <span>© 2026 STRIVEX · Mumbai · Bengaluru · Delhi</span>
+        <span>Built by Ayush Kumar</span>
       </div>
     </footer>
   );

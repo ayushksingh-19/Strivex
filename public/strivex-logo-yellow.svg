@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
+  <title id="title">Strivex yellow logo</title>
+  <desc id="desc">A yellow shield, crown, barbell logo with Strivex lettering.</desc>
+  <g fill="none" stroke="#D9FF3D" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="8">
+      <path d="M242 34 210 42 186 70 190 102 210 126 238 138" />
+      <path d="M398 34 430 42 454 70 450 102 430 126 402 138" />
+      <path d="M246 34 320 24 394 34" />
+      <path d="M222 128 256 164 320 186 384 164 418 128" />
+      <path d="M258 48 320 72 382 48" />
+      <path d="M268 72 320 92 372 72" />
+      <path d="M244 92 320 168 396 92" />
+      <path d="M320 24 320 172" />
+      <path d="M196 118 98 118" />
+      <path d="M444 118 542 118" />
+      <path d="M156 74 128 74 116 162 156 162" />
+      <path d="M136 60 108 60 96 176 136 176" />
+      <path d="M484 74 512 74 524 162 484 162" />
+      <path d="M504 60 532 60 544 176 504 176" />
+      <path d="M88 98 84 138" />
+      <path d="M552 98 556 138" />
+    </g>
+    <g stroke-width="6">
+      <path d="M292 26 304 44 320 18 336 44 348 26" />
+      <path d="M298 44 320 60 342 44" />
+      <circle cx="320" cy="14" r="5" fill="#D9FF3D" stroke="none" />
+      <circle cx="299" cy="40" r="3.5" fill="#D9FF3D" stroke="none" />
+      <circle cx="320" cy="34" r="3.5" fill="#D9FF3D" stroke="none" />
+      <circle cx="341" cy="40" r="3.5" fill="#D9FF3D" stroke="none" />
+    </g>
+  </g>
+  <path d="M334 108c0-11-9-18-23-18-14 0-24 7-24 18 0 10 7 14 21 17l13 3c7 2 10 4 10 8 0 5-5 8-13 8-9 0-14-3-19-10l-16 9c7 13 19 19 35 19 22 0 37-11 37-29 0-13-7-21-24-25l-13-3c-7-2-10-4-10-8 0-4 4-7 11-7 7 0 12 3 16 8l16-10Z" fill="#D9FF3D"/>
+  <text x="320" y="250" fill="#D9FF3D" font-family="Bricolage Grotesque, Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="12" text-anchor="middle">STRIVEX</text>
+</svg>
